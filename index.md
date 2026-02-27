@@ -1,4 +1,5 @@
-![my2021-fall.png](my2021-fall.png)
+[](![my2021-fall.png](my2021-fall.png))
+<img src="my2021-fall.png" width="30%">
 
 # 越智徹：サウンド＆インテリジェンス研究室（予定）
 
