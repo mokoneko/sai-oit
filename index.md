@@ -1,3 +1,5 @@
+![my2021-fall.png](my2021-fall.png)
+
 # 越智徹：サウンド＆インテリジェンス研究室（予定）
 
 ![nekoneko.jpg](nekoneko.jpg)
