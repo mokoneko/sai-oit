@@ -1,6 +1,9 @@
 #title: "Sound and Intelligence Laboratory"
 #description: "越智徹：サウンド＆インテリジェンス研究室"
-theme: jekyll-theme-cayman
+
+#theme: jekyll-theme-cayman
+theme: jekyll-theme-modernist
+
 title: Sound and Intelligence Laboratory
 description: Osaka Institute of Technology
 show_downloads: false
