@@ -2,8 +2,13 @@
 #description: "越智徹：サウンド＆インテリジェンス研究室"
 
 #theme: jekyll-theme-cayman
-theme: jekyll-theme-modernist
+#theme: jekyll-theme-modernist
 
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: default
 title: Sound and Intelligence Laboratory
 description: Osaka Institute of Technology
 show_downloads: false
